@@ -58,6 +58,8 @@ body{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 13px;
+    margin: 0px;
+    padding: 0px;
 }
 .right{
     float: right;
